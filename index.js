@@ -6,6 +6,8 @@ array.forEach(callback);
 }
 
 // Add your changeCompletely() function here:
-function changeCompletely() {
+function changeCompletely(element, index, array) {
+
+
 
 }
